@@ -10,6 +10,21 @@ namespace Arrays_test_code
     {
         static void Main(string[] args)
         {
+
+            //char[] vowels = {'e', 'a', 'b'};
+            //char[] vowels2 = vowels;
+            //for (int i = 0; i < vowels.Length; i++)
+            //{
+            //    Console.Write(vowels[i]);
+            //}
+            //Console.WriteLine();
+            //bool equalCheck = vowels.Equals(vowels2);
+            //Console.WriteLine(equalCheck);
+
+
+            Console.Read();
+
+
         }
     }
 }
