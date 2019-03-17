@@ -21,7 +21,6 @@ namespace Arrays_test_code
             //bool equalCheck = vowels.Equals(vowels2);
             //Console.WriteLine(equalCheck);
 
-
             Console.Read();
 
 
